@@ -17,7 +17,7 @@
 ## Steps to deploy the flask web app on heroku platform.
   - First of all, we need to create git repository for our project.
   - Upload all the project files inside github repository.
-  - Go to [Heroku](Heroku.com) platform and login or create your account. It's free platform where we can host our ML/DL project web application.
+  - Go to [Heroku](http://Heroku.com) platform and login or create your account. It's free platform where we can host our ML/DL project web application.
   - Create your free Heroku project
   - Integrate your github profile
   - Search for the github repository within provided search bar.
